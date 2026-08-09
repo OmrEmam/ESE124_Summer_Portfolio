@@ -1,0 +1,5 @@
+# compiled binaries - built by `make`, not part of source
+01-early-program/magic_counter
+02-midcourse-program/csv_gradebook
+03-brobank/brobank
+*.o
