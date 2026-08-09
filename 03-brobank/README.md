@@ -47,6 +47,7 @@ tagging along, it's a real dependency.
 ## Compile and Run
 
 ```bash
+cd 03-brobank
 make
 ./brobank
 ```

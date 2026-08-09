@@ -17,6 +17,7 @@ the file is malformed, instead of crashing or silently skipping it.
 ## Compile and Run
 
 ```bash
+cd 02-midcourse-program
 make
 ./csv_gradebook
 ```

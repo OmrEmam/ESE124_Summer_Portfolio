@@ -15,6 +15,7 @@ how many positives, negatives, and zeros it saw.
 ## Compile and Run
 
 ```bash
+cd 01-early-program
 make
 ./magic_counter
 ```
